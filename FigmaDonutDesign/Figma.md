@@ -1,37 +1,39 @@
-Introduction
+# Figma Class Outline
 
-Figma overview for UI/UX design.
-Goals: Interface, tools, collaboration.
-Getting Started
+## Introduction
+- Figma overview for UI/UX design.
+- Goals: Interface, tools, collaboration.
 
-Download, create account, and initial setup.
-Figma Basics
+## Getting Started
+- Download, create account, and initial setup.
 
-File Browser: Organize files.
-Editor Layout: Workspace overview.
-Essential Tools
+## Figma Basics
+- **File Browser**: Organize files.
+- **Editor Layout**: Workspace overview.
 
-Frames: Create, resize, organize.
-Navigation: Panning, zooming.
-Layers/Pages: Rename, organize.
-Design Elements
+## Essential Tools
+- **Frames**: Create, resize, organize.
+- **Navigation**: Panning, zooming.
+- **Layers/Pages**: Rename, organize.
 
-Backgrounds/Fills: Add color.
-Shapes/Images: Add, adjust.
-Text/Layout Grids: Text and alignment.  Building Components
+## Design Elements
+- **Backgrounds/Fills**: Add color.
+- **Shapes/Images**: Add, adjust.
+- **Text/Layout Grids**: Text and alignment.
 
-Navigation/Icons: Reusable elements.
-Community Assets: Use templates/assets.
-Components/Constraints: Scalable design.
-Advanced Features
+## Building Components
+- **Navigation/Icons**: Reusable elements.
+- **Community Assets**: Use templates/assets.
+- **Components/Constraints**: Scalable design.
 
-Masks/Styles: Effects, styling.
-Auto Layout: Responsive alignment.
-Prototyping and Sharing
+## Advanced Features
+- **Masks/Styles**: Effects, styling.
+- **Auto Layout**: Responsive alignment.
 
-Prototype: Link frames for interactivity.
-Share/Export: Collaboration and export options.
-Wrap Up
+## Prototyping and Sharing
+- **Prototype**: Link frames for interactivity.
+- **Share/Export**: Collaboration and export options.
 
-Recap: Interface, tools, prototyping.
-Encourage practice and further learning.
+## Wrap Up
+- Recap: Interface, tools, prototyping.
+- Encourage practice and further learning.
